@@ -1,0 +1,19 @@
+frame0 : There are two people in the image. One of them is clearly visible and the other one can be seen faintly. The clearly visible person is wearing a brown round-collared shirt and brown pants. This person is seen from the back and has a man bun. The person is holding a clear plastic bottle and seems to be drinking from it. The person is standing on a field with a fence in front of them. There are trees and buildings in the background. The second person is standing to the right of the first person. This person is wearing a white shirt and dark pants. The person is carrying a white bag and has long blond hair. This person is seen from the side and is walking towards the first person.
+
+frame1 : No
+
+frame2 : There is one human in the image. It is a man standing on a baseball field, holding a bat in his right hand. He is wearing a blue t-shirt and jeans. He has short brown hair and is clean-shaven. He is looking up at the sky.
+
+frame3 : The image contains a human. The human is a male. He is wearing a brown vest, a yellow t-shirt, and jean shorts. He is holding a baseball bat and standing on a baseball field. He is in a batting stance.
+
+frame4 : The image contains a human. 
+Details include: 
+* A young male adult
+* Wearing a brown jacket
+* Wearing blue jean shorts
+* Holding a yellow baseball bat
+* In the middle of swinging the bat
+* In a field with houses and trees in the background
+
+
+
